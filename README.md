@@ -31,3 +31,6 @@ That means I can use some functions on my own computer but the real process isn'
 We have my clients and a server. The server firstly sends some messages, then the clients receive these messages and process it simultaneously.
 
 ![](https://ws1.sinaimg.cn/large/a7ded905ly1g2et3shbl8g21bg0p4u11.gif)
+
+# lab4
+To be continued...

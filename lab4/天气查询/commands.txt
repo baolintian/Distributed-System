@@ -1,0 +1,16 @@
+wsimport -keep -p wsproxy http://ws.webxml.com.cn/WebServices/MobileCodeWS.asmx?wsdl
+
+
+wsimport -keep -p wsproxy http://fy.webxml.com.cn/webservices/EnglishChinese.asmx?wsdl
+
+wsimport -keep -p wsproxy http://ws.webxml.com.cn/WebServices/WeatherWS.asmx?wsdl
+
+wsimport -keep -p wsproxy http://ws.webxml.com.cn/webservices/qqOnlineWebService.asmx?wsdl
+wsimport -keep -p wsproxy http://ws.webxml.com.cn/WebServices/TrainTimeWebService.asmx?wsdl
+
+wsimport -keep -p wsproxy http://ws.webxml.com.cn/WebServices/ChinaZipSearchWebService.asmx?wsdl
+
+wsimport -keep WeatherWS.xml
+
+javac .\wsclient\*.java
+java wsclient.WeatherWSClient

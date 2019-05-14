@@ -1,0 +1,9 @@
+wsimport -keep -p wsproxy http://ws.webxml.com.cn/WebServices/MobileCodeWS.asmx?wsdl
+
+
+wsimport -keep -p wsproxy http://fy.webxml.com.cn/webservices/EnglishChinese.asmx?wsdl
+
+javac .\wsclient\*.java
+java wsclient.CodeInfoClient
+
+18066759670

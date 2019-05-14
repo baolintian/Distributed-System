@@ -1,0 +1,8 @@
+javac .\wsserver\*.java
+java wsserver.HelloWorldPublisher
+http://localhost:9999/ws/hello?wsdl
+
+wsimport -keep -p wsproxy http://localhost:9999/ws/hello?wsdl
+
+javac .\wsclient\*.java
+java wsclient.HelloWorldClient

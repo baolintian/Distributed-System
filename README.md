@@ -37,4 +37,29 @@ YOU CAN ALSO SEE THE DEMO FROM THE BELOW LINK.
 ![](https://ws1.sinaimg.cn/large/a7ded905ly1g2et3shbl8g21bg0p4u11.gif)
 
 # lab4
-To be continued...
+This part refers to web service.
+
+demo1
+
+Finish task2 using WS.
+
+![](https://ws1.sinaimg.cn/large/a7ded905ly1g319ucga8tg21bg0ob7wl.gif)
+
+
+
+demo2
+
+query the weather
+
+![](https://ws1.sinaimg.cn/large/a7ded905ly1g319ulrd6kg21bg0ob7wh.gif)
+
+
+
+demo3
+
+query the detail information about one's telephone
+
+![](https://ws1.sinaimg.cn/large/a7ded905ly1g319usjyfcg21bg0ob1kx.gif)
+
+# lab5 
+to be continued...

@@ -42,6 +42,7 @@ This part refers to web service.
 demo1
 
 Finish task2 using WS.
+[demo](https://ws1.sinaimg.cn/large/a7ded905ly1g319ucga8tg21bg0ob7wl.gif)
 
 ![](https://ws1.sinaimg.cn/large/a7ded905ly1g319ucga8tg21bg0ob7wl.gif)
 

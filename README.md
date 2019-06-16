@@ -63,4 +63,4 @@ query the detail information about one's telephone
 ![](https://ws1.sinaimg.cn/large/a7ded905ly1g319usjyfcg21bg0ob1kx.gif)
 
 # lab5 
-to be continued...
+MapReduce coding under the architecture of HDFS
